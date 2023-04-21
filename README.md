@@ -39,7 +39,7 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dcryptoniun&show_icons=true&locale=en" alt="dcryptoniun" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=dcryptoniun&" alt="dcryptoniun" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=dcryptoniun" alt="dcryptoniun" /></p>
   </div>
 </div>
 <!--
