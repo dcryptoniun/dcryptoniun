@@ -1,12 +1,7 @@
-<div id="header" align="right">
-<img src="https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif" width="100"/>
+<div id="header" align="center">
+<img src="koi/koi.gif" width="256" alt="My koi" />
 </div>
-<div align="center">
-<h1>### Hi there 👋 I'm Mayank Meena</h1>
-<p>My name is Mayank Meena and I'm from India. I'm a passionate developer and indie game developer who loves coding and contributing to open-source projects. My skill set includes React, Solidity, Next.js, Tailwind CSS, and blockchain technologies. I enjoy developing impactful applications and creating engaging games. As a developer, I believe in the power of community-driven development and continuous learning, and I'm always seeking new opportunities to collaborate with like-minded individuals.</p>
-</div>
-
-<div id="badges" >
+<div id="badges" align="center" >
 <a href="https://www.linkedin.com/in/mayankmeena/" target="blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
@@ -17,24 +12,13 @@
 <img src="https://img.shields.io/badge/Website-gerstudio-blue?style=for-the-badge&logoColor=white" alt="GerStudio Badge"/>
 </a>
 </div>
+<div align="center">
 
-<div>
-<p> <img src="https://komarev.com/ghpvc/?username=dcryptoniun&label=Profile%20views&color=0e75b6&style=flat" alt="dcryptoniun" /></p>
-</div>
-
-<div>
-
-🔭 **Projects & Portfolio** [Personal Portfolio](https://mayank-meena.vercel.app/)
+🔭 **Projects & Portfolio** [Personal Portfolio](https://www.gerstudio.com/)
 
 🕹️ **Games & Apps** [Play Store - GerStudio Games](https://play.google.com/store/apps/dev?id=8895908145914606687)
-
-🌱 Exercising [Godot Engine, GDScript, Nextjs, Tailwindcss, Solidity, Javascript, Mobile Game Development] along the way.
-
-🌱 Find excitement learning [Blockchain](https://www.blockchain.com/) with javaScript.
-
 </div>
-<img src="koi/koi.gif" width="256" alt="My koi" />
-<div>
+<div align="center">
 
 <h3>Languages and Tools:</h3>
 <p>
@@ -49,14 +33,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a>
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dcryptoniun&show_icons=true&locale=en&layout=compact" alt="dcryptoniun" />
-</p>
-
-<p>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=dcryptoniun&show_icons=true&locale=en" alt="dcryptoniun" />
 </p>
 
 <p>
