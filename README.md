@@ -34,9 +34,4 @@
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a>
 </p>
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dcryptoniun" alt="dcryptoniun" />
-</p>
-
 </div>
